@@ -1,3 +1,5 @@
+> **Languages**: 中文 | [English](README_EN.md)
+
 # Game Idea To Spec
 
 一句话游戏想法 → GameForge 可直接粘贴的标准游戏规格。
